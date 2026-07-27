@@ -1,0 +1,8 @@
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
+NQ,28794.0,28260 PW+LG,#000000,#FF1744,Right,8,true
+NQ,28804.0,28270 ZG,#000000,#FFD600,Right,8,true
+NQ,28984.0,28450 CW+CB,#000000,#00C853,Right,8,true
+NQ,29114.0,28580 VT-C,#000000,#00B8D4,Right,8,true
+NQ,28107.9,680 PW,#000000,#FF1744,Right,8,true
+NQ,28521.2,690 ZG+LG+CB,#000000,#FFD600,Right,8,true
+NQ,28934.6,700 CW,#000000,#00C853,Right,8,true
