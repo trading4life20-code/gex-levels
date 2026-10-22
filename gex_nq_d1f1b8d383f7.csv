@@ -1,4 +1,5 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
+NQZ6.CME@RITHMIC,29179.5,29000 VT-P,#000000,#D500F9,Right,1,true
 NQZ6.CME@RITHMIC,29279.5,29100 PW+LG+CB,#000000,#FF1744,Right,1,true
 NQZ6.CME@RITHMIC,29679.5,29500 CW,#000000,#00C853,Right,1,true
 NQZ6.CME@RITHMIC,29919.5,29740 ZG,#000000,#FFD600,Right,1,true
